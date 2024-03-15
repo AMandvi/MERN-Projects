@@ -13,7 +13,7 @@ Technologies:
     
     HTML/CSS
 
-Skills:
+Skills Used:
 
     Designing documents in MongoDB
     
